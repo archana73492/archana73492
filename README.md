@@ -39,5 +39,5 @@ A text-classification project for identifying spam messages using NLP techniques
 ## Contact
 - **Email:** archanakuranee@gmail.com
 - **GitHub:** https://github.com/archana73492
-- **LinkedIn:** Add your verified LinkedIn profile URL here
+- **LinkedIn:** https://www.linkedin.com/in/archana-kurane-84403038b/
 
